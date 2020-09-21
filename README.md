@@ -27,4 +27,4 @@
 
 3.安装好后，启动运行：npm run serve
 
-4.在浏览器输入：http:localhost:8080 开始享受吧
+4.在浏览器输入：http://localhost:8080 开始享受吧
